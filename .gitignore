@@ -1,4 +1,4 @@
-# Arquivos temporários e de build do Arduino e PlatformIO
+#Arquivos temporários e de build do Arduino e PlatformIO
 /build/
 .pio/
 *.o
@@ -12,11 +12,11 @@
 *.map
 *.sym
 
-# Arquivos de configuração do sistema operacional
+#Arquivos de configuração do sistema operacional
 .DS_Store
 Thumbs.db
 
-# Arquivos de configuração de editores de código
+#Arquivos de configuração de editores de código
 .vscode/
 .idea/
 *.suo
@@ -24,5 +24,5 @@ Thumbs.db
 *.user.*
 *.bak
 
-# Arquivos gerados pelo Arduino IDE
+#Arquivos gerados pelo Arduino IDE
 preproc/
